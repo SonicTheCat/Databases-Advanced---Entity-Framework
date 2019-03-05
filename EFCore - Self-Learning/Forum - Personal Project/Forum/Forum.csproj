@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <StartupObject>Forum.StartUp</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ForumData\ForumData.csproj" />
+    <ProjectReference Include="..\ForumModels\ForumModels.csproj" />
+  </ItemGroup>
+
+</Project>
