@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20190307171553_Add-Encapsulation.cs" />
+    <Compile Remove="Migrations\20190307173319_Add-Encapsulation.cs" />
+    <Compile Remove="Migrations\20190307233623_AddInheritance.cs" />
+    <Compile Remove="Migrations\20190308000950_AddInheritance.cs" />
+    <Compile Remove="Migrations\20190308030343_SeedOwnersFromJson.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="2.2.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlserver" Version="2.2.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.2.2">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Newtonsoft.json" Version="12.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GazServiz.Models\GazServiz.Models.csproj" />
+  </ItemGroup>
+
+</Project>
