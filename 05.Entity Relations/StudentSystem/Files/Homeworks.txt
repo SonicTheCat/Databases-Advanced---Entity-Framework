@@ -1,0 +1,26 @@
+[
+	{
+		"HomeworkId": 1,
+		"Content":"kvi sa tez gluposti",
+		"ContentType":"Application",
+		"SubmissionTime": "10-10.2010",
+		"StudentId": 1,
+		"CourseId": 1
+	},
+	{
+		"HomeworkId": 2,
+		"Content":"blq blq blq...",
+		"ContentType":"Pdf",
+		"SubmissionTime": "10-10.2010",
+		"StudentId": 2,
+		"CourseId": 1
+	},
+	{
+		"HomeworkId": 3,
+		"Content":"javascript",
+		"ContentType":"Zip",
+		"SubmissionTime": "10-10.2010",
+		"StudentId": 3,
+		"CourseId": 3
+	}
+]

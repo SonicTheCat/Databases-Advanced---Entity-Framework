@@ -1,0 +1,20 @@
+[
+	{
+		"StudentId": 1,
+		"Name":"Sashka",
+		"PhoneNumber":"0894292919",
+		"RegisteredOn": "10-12-2010"
+	},
+	{
+		"StudentId": 2,
+		"Name":"Milka",
+		"PhoneNumber":"0888101768",
+		"RegisteredOn": "06-10-2015"
+	},
+	{
+		"StudentId": 3,
+		"Name":"Penka",
+		"PhoneNumber":"02/542 132",
+		"RegisteredOn": "11-11-2011"
+	}
+]

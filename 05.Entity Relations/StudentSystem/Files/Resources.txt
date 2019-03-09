@@ -1,0 +1,9 @@
+[
+	{
+		"ResourceId": 1,
+		"Name":"The best book for c# developers",
+		"Url": "www.php.com",
+		"ResourceType":"Document",
+		"CourseId": 1
+	}
+]
