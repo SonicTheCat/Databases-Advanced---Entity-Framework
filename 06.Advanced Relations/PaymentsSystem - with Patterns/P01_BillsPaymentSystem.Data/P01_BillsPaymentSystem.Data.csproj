@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="microsoft.entityframeworkcore.Sqlserver" Version="2.2.2" />
+    <PackageReference Include="microsoft.entityframeworkcore.Tools" Version="2.2.2">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\P01_BillsPaymentSystem.Data.Models\P01_BillsPaymentSystem.Data.Models.csproj" />
+  </ItemGroup>
+
+</Project>
