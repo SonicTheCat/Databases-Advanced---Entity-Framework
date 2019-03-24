@@ -1,0 +1,68 @@
+[
+  {
+    "Name": "Autoparts",
+    "Count": 49,
+    "Average": 790.49,
+    "TotalRevenue": 38733.87
+  },
+  {
+    "Name": "Weapons",
+    "Count": 45,
+    "Average": 716.75,
+    "TotalRevenue": 32253.69
+  },
+  {
+    "Name": "Electronics",
+    "Count": 43,
+    "Average": 830.51,
+    "TotalRevenue": 35711.72
+  },
+  {
+    "Name": "Adult",
+    "Count": 41,
+    "Average": 686.09,
+    "TotalRevenue": 28129.76
+  },
+  {
+    "Name": "Sports",
+    "Count": 41,
+    "Average": 776.68,
+    "TotalRevenue": 31843.94
+  },
+  {
+    "Name": "For Children",
+    "Count": 40,
+    "Average": 712.82,
+    "TotalRevenue": 28512.82
+  },
+  {
+    "Name": "Fashion",
+    "Count": 39,
+    "Average": 805.96,
+    "TotalRevenue": 31432.44
+  },
+  {
+    "Name": "Business",
+    "Count": 35,
+    "Average": 807.05,
+    "TotalRevenue": 28246.90
+  },
+  {
+    "Name": "Drugs",
+    "Count": 34,
+    "Average": 809.47,
+    "TotalRevenue": 27521.86
+  },
+  {
+    "Name": "Garden",
+    "Count": 33,
+    "Average": 779.37,
+    "TotalRevenue": 25719.34
+  },
+  {
+    "Name": "Other",
+    "Count": 1,
+    "Average": 1101.77,
+    "TotalRevenue": 1101.77
+  }
+]
